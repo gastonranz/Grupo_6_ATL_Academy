@@ -1,0 +1,69 @@
+{
+  "atl_academy": [
+    {
+      "grupos": [
+        {
+          "nombre": "Blue Devs",
+          "numero": 6,
+          "integrantes": [
+            {
+              "nombre": "Gastón",
+              "apellido": "Ranz",
+              "edad": 29,
+              "discord": "Equipo 6 / Gastón Ranz",
+              "pais": "Argentina",
+              "hobbies": "música, piano, gimnasio, baseball"
+            },
+            {
+              "nombre": "Jesús",
+              "apellido": "",
+              "edad": "",
+              "discord": "JesusCanales",
+              "pais": "Perú",
+              "hobbies": ""
+            },
+            {
+              "nombre": "Hernán",
+              "apellido": "",
+              "edad": "",
+              "discord": "hernan67",
+              "pais": "Argentina",
+              "hobbies": ""
+            },
+            {
+              "nombre": "Ignacio",
+              "apellid": "",
+              "edad": "",
+              "discord": "Ignacio",
+              "pais": "argentina",
+              "hobbies": ""
+            },
+            {
+              "nombre": "Luz",
+              "apellido": "",
+              "edad": "",
+              "discord": "Luz1201",
+              "pais": "Argentina",
+              "hobbies": ""
+            },
+            {
+              "nombre": "Alex",
+              "apellido": "",
+              "edad": 20,
+              "discord": "grupo6 - Alex",
+              "pais": "República Dominicana",
+              "hobbies": ""
+            },
+            {
+              "nombre": "Guillermina",
+              "apellido": "",
+              "edad": "",
+              "discord": "Guillermina Morel Bentancour",
+              "pais": "Argentina"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
