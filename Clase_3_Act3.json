@@ -71,6 +71,18 @@
         ],
         "respuesta": 2
       }
+    },
+    {
+      "pregunta7": {
+        "pregunta": "¿Cuál es el nombre de la actríz que interpretó a Rose en Titanic?",
+        "opciones_pregunta": [
+          "Julia Roberts",
+          "Michelle Pfeiffer",
+          "Kim Basinger",
+          "Kate Winslet"
+        ],
+        "respuesta": 3
+      }
     }
   ]
 }
