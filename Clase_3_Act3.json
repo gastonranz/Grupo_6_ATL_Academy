@@ -82,18 +82,19 @@
           "Kate Winslet"
         ],
         "respuesta": 3
-      },
-      { 
-        "pregunta8":{
+      }
+    },
+    { 
+      "pregunta8":{
          "pregunta":"¿En qué año llegó el hombre a la Luna?",
          "opciones_pregunta": [
             1972,
             1955,
             1962,
             1969
-        ],
-        "respuesta": 3
-    }
+      ],
+      "respuesta": 3
+      }
     }
   ]
 }
