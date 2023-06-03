@@ -9,7 +9,8 @@
           "Antílope saiga",
           "Leopardo"
         ],
-        "respuesta": 0
+        "respuesta": 0,
+        "explicacion": "La respuesta es el guepardo, alcanza una velocidad promedio de 80 a 130 km/h, el león alcanza una velocidad promedio de 80km/h, el antílope saiga alcanza una velocidad de 70/80km/h y el leopardo 58km/h."
       }
     },
     {
@@ -21,7 +22,8 @@
           40,
           50
         ],
-        "respuesta": 3
+        "respuesta": 3,
+        "explicacion": "Estados Unidos está formado por una totalidad de 50 estados."
       }
     },
     {
@@ -33,7 +35,8 @@
           1992,
           1996
         ],
-        "respuesta": 1
+        "respuesta": 1,
+        "explicacion": "Las Olimpiadas de Verando de Seúl tuvieron lugar en el año 1988."
       }
     },
     {
