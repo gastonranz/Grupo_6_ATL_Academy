@@ -45,12 +45,12 @@
           "hobbies": ""
         },
         {
-          "nombre": "Alex",
-          "apellido": "",
+          "nombre": "Alexander",
+          "apellido": "Collado Jimenez",
           "edad": 20,
           "discord": "grupo6 - Alex",
           "pais": "República Dominicana",
-          "hobbies": ""
+          "hobbies": ["Beisbol", "programacion", "cibersegurida", "hacking"]
         },
         {
           "nombre": "Guillermina",
