@@ -9,7 +9,7 @@
           "Antílope saiga",
           "Leopardo"
         ],
-        "respuesta": "0"
+        "respuesta": 0
       }
     },
     {
@@ -69,7 +69,7 @@
           "Pacífico",
           "Ártico"
         ],
-        "respuesta": "2"
+        "respuesta": 2
       }
     }
   ]
