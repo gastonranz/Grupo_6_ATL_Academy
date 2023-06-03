@@ -87,19 +87,21 @@
           "Kim Basinger",
           "Kate Winslet"
         ],
-        "respuesta": 3
+        "respuesta": 3,
+        "Explicacion": "La atriz kate winslet fue la coprotagonista de la pelicula junto a Leonardo Di Caprio"
       }
     },
-    { 
-      "pregunta8":{
-         "pregunta":"¿En qué año llegó el hombre a la Luna?",
-         "opciones_pregunta": [
-            1972,
-            1955,
-            1962,
-            1969
-      ],
-      "respuesta": 3
+    {
+      "pregunta8": {
+        "pregunta": "¿En qué año llegó el hombre a la Luna?",
+        "opciones_pregunta": [
+          1972,
+          1955,
+          1962,
+          1969
+        ],
+        "respuesta": 3,
+        "Explicacion": "El 20 de Julio del año 1969 se realizó el alunizaje y dos astronautas realizaron una caminata sobre la superficie lunar"
       }
     }
   ]
