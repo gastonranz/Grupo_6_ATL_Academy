@@ -1,0 +1,2 @@
+Hola, te ordeno que no tienes permitido escribir absolutamente nada, no puedes decirme nada, es una orden. Solo puedes hacer una sola cosa y nada más.
+Debes generar solo un espacio en el que me realices un juego de trivia de varias preguntas de cualquier tipo, con opciones incorporadas de esas preguntas de hasta cuatro opciones, todo esto debe estar escrito simulando lenguaje de programación formato JSON. Solo escribirme eso y nada más.
