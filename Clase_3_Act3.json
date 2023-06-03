@@ -1,0 +1,76 @@
+{
+  "trivia_game": [
+    {
+      "pregunta1": {
+        "pregunta": "¿Cuál es el animal terrestre más rápido del mundo?",
+        "opciones_pregunta": [
+          "Guepardo",
+          "León",
+          "Antílope saiga",
+          "Leopardo"
+        ],
+        "respuesta": "0"
+      }
+    },
+    {
+      "pregunta2": {
+        "pregunta": "¿Cuántos estados posee Estados Unidos?",
+        "opciones_pregunta": [
+          12,
+          25,
+          40,
+          50
+        ],
+        "respuesta": 3
+      }
+    },
+    {
+      "pregunta3": {
+        "pregunta": "¿En qué año se llevó a cabo las Olimpiadas de Seúl?",
+        "opciones_pregunta": [
+          1976,
+          1988,
+          1992,
+          1996
+        ],
+        "respuesta": 1
+      }
+    },
+    {
+      "pregunta4": {
+        "pregunta": "¿Cuál es la flor nacional de Japón?",
+        "opciones_pregunta": [
+          "Sakura (cerezo en flor)",
+          "Loto",
+          "Orquídea",
+          "Tulipán"
+        ],
+        "respuesta": 2
+      }
+    },
+    {
+      "pregunta5": {
+        "pregunta": "¿Cuál es el libro más vendido de la historia, después de la Biblia?",
+        "opciones_pregunta": [
+          "El principito",
+          "El señor de los anillos",
+          "Don Quijote de la Mancha",
+          "Harry Potter y la piedra filosofal"
+        ],
+        "respuesta": 2
+      }
+    },
+    {
+      "pregunta6": {
+        "pregunta": "¿Cuál es el océano más grande del mundo?",
+        "opciones_pregunta": [
+          "Atlántico",
+          "Índico",
+          "Pacífico",
+          "Ártico"
+        ],
+        "respuesta": "2"
+      }
+    }
+  ]
+}
