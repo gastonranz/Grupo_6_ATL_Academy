@@ -1,0 +1,36 @@
+{
+  "academies": {
+    "academy": "Next Lang",
+    "location": [
+      123,
+      "villa Carlos Paz"
+    ],
+    "courses": [
+      {
+        "course": "Basic English",
+        "level": "begginer",
+        "duration": "4 weeks",
+        "course_value": 100
+      },
+      {
+        "course": "Advanced English",
+        "level": "advanced",
+        "duration": "20 weeks",
+        "course_value": 400
+      },
+      {
+        "course": "Basic Italian",
+        "level": "beginner",
+        "duration": "5 weeks",
+        "course_value": 120
+      }
+    ],
+    "academy phone numbers": [
+      156734756,
+      154456234,
+      155839220,
+      154927289,
+      153082817
+    ]
+  }
+}
