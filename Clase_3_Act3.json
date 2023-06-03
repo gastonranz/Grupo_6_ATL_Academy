@@ -45,7 +45,8 @@
           "Orquídea",
           "Tulipán"
         ],
-        "respuesta": 2
+        "respuesta": 0,
+        "explicacion":"La flor del cerezo o «sakura» es la flor nacional y símbolo de Japón.Las frágiles flores que esta contiene,son el símbolo de lo bella que es la primavera."
       }
     },
     {
@@ -57,7 +58,8 @@
           "Don Quijote de la Mancha",
           "Harry Potter y la piedra filosofal"
         ],
-        "respuesta": 2
+        "respuesta": 2,
+        "explicacion":"Es una de las primeras novelas escrita en la literatura europea."
       }
     },
     {
@@ -69,7 +71,8 @@
           "Pacífico",
           "Ártico"
         ],
-        "respuesta": 2
+        "respuesta": 2,
+        "explicacion":"Abarca más de 155 millones de kilómetros cuadrados desde la costa oeste de América hasta la costa este de Asía, y tiene una profundidad media de más de 4000 metros."
       }
     },
     {
