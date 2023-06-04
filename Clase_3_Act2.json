@@ -58,6 +58,13 @@
           "edad": "41",
           "discord": "MacClane1981",
           "pais": "Argentina"
+        },
+        {
+          "nombre": "Juan Alberto",
+          "apellido": "Cuevas",
+          "edad": "28",
+          "discord": "JuanCuevas#6398",
+          "pais": "Mexico"
         }
       ]
     }
