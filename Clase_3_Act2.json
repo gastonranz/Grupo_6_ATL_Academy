@@ -10,7 +10,7 @@
           "edad": 29,
           "discord": "Equipo 6 / Gastón Ranz",
           "pais": "Argentina",
-          "hobbies": "música, piano, gimnasio, baseball"
+          "hobbies": ["música", "piano", "gimnasio", "baseball"]
         },
         {
           "nombre": "Jesús",
@@ -18,7 +18,7 @@
           "edad": "44",
           "discord": "JesusCanales",
           "pais": "Perú",
-          "hobbies": "ver películas, tomar fotos, probar nuevas tools de tecnología"
+          "hobbies": ["ver películas", "tomar fotos", "probar nuevas tools de tecnología"]
         },
         {
           "nombre": "Hernán",
@@ -26,7 +26,7 @@
           "edad": "34",
           "discord": "hernan67",
           "pais": "Argentina",
-          "hobbies": "artes marciales, steel mace, cine, libros"
+          "hobbies": ["artes marciales", "steel mace", "cine", "libros"]
         },
         {
           "nombre": "Ignacio",
@@ -42,7 +42,7 @@
           "edad": "25",
           "discord": "Luz1201",
           "pais": "Argentina",
-          "hobbies": "lectura", "programacion", "natacion"
+          "hobbies": ["lectura", "programacion", "natacion"]
         },
         {
           "nombre": "Alexander",
