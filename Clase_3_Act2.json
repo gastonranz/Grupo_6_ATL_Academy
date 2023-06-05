@@ -30,11 +30,11 @@
         },
         {
           "nombre": "Ignacio",
-          "apellid": "Unknown",
-          "edad": "Unknown",
+          "apellid": "Rodríguez",
+          "edad": "28",
           "discord": "Ignacio",
           "pais": "argentina",
-          "hobbies": "Unknown"
+          "hobbies": ["Basquet", "gimnasio"]
         },
         {
           "nombre": "Luz",
