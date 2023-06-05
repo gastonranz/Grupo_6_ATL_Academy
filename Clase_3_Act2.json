@@ -14,11 +14,11 @@
         },
         {
           "nombre": "Jesús",
-          "apellido": "",
-          "edad": "",
+          "apellido": "Canales",
+          "edad": "Unknown",
           "discord": "JesusCanales",
           "pais": "Perú",
-          "hobbies": ""
+          "hobbies": "Unknown"
         },
         {
           "nombre": "Hernán",
@@ -30,19 +30,19 @@
         },
         {
           "nombre": "Ignacio",
-          "apellid": "",
-          "edad": "",
+          "apellid": "Unknown",
+          "edad": "Unknown",
           "discord": "Ignacio",
           "pais": "argentina",
-          "hobbies": ""
+          "hobbies": "Unknown"
         },
         {
           "nombre": "Luz",
-          "apellido": "",
-          "edad": "",
+          "apellido": "García",
+          "edad": "Unknown",
           "discord": "Luz1201",
           "pais": "Argentina",
-          "hobbies": ""
+          "hobbies": "Unknown"
         },
         {
           "nombre": "Alexander",
