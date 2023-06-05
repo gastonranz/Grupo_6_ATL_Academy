@@ -39,10 +39,10 @@
         {
           "nombre": "Luz",
           "apellido": "García",
-          "edad": "Unknown",
+          "edad": "25",
           "discord": "Luz1201",
           "pais": "Argentina",
-          "hobbies": "Unknown"
+          "hobbies": "lectura", "programacion", "natacion"
         },
         {
           "nombre": "Alexander",
@@ -65,13 +65,6 @@
           "edad": "28",
           "discord": "JuanCuevas#6398",
           "pais": "Mexico"
-        }
-        {
-          "nombre": "Luz",
-          "apellido": "Garcia",
-          "edad": "25",
-          "discord": "Luz1201#7492",
-          "pais": "Argentina"
         }
       ]
     }
